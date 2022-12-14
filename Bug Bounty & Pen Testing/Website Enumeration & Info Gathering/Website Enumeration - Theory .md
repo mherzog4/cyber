@@ -18,3 +18,5 @@ tools we will use:
 - nikto
 - dirb
 - google
+- burbsuite
+
